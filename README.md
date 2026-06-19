@@ -2,8 +2,7 @@
 
 A full-stack login and registration web app with a real PostgreSQL database, session-based authentication, and a clean modern UI.
 
-**Live demo:** https://d576d493-e687-45e8-84ec-55d78d86717f-00-216iz4kuwolzc.sisko.replit.dev
-
+**Live demo:**  https://login-portal--lamnguyen222.replit.app/
 **GitHub:** https://github.com/NguyenTungLam411/SimpleLogin_withDatabase
 
 ---
